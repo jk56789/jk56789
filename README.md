@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%10JooKyoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20JooKyoung&fontSize=90)
 
 
 ### Hi there, I'm Joo Kyoung Lee 👋
