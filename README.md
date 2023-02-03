@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML/DL and Computer Vision
 - 👯 I’m looking to collaborate on interested in AI
 - 📫 How to reach me: dlwnrud7070@naver.com
-- ⚡ check my cv
+- ⚡ check my [cv](https://github.com/jk56789/jk56789/files/10576307/cv.pdf)
 
 
 
@@ -25,8 +25,5 @@ Here are some ideas to get you started:
 
 
 
-// code
-Link: [Google][googlelink]
 
-[googlelink]: https://google.com "Go google"
-[cv이주경.pdf](https://github.com/jk56789/jk56789/files/10576307/cv.pdf)
+
