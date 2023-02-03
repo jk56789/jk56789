@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
+[cv이주경.pdf](https://github.com/jk56789/jk56789/files/10576307/cv.pdf)
