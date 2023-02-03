@@ -11,15 +11,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm majored in mathematics
+- 🌱 I’m currently learning ML/DL and Computer Vision
+- 👯 I’m looking to collaborate on interested in AI
+- 📫 How to reach me: dlwnrud7070@naver.com
+- ⚡ check my cv
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jk56789&show_icons=true&theme=radical)
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
