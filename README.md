@@ -12,6 +12,7 @@
 현재 한양대학교 수학과 재학중이며 인공지능에 누구보다 진심으로 임하고 있습니다
 
 
+
 - 🔭 I'm majored in mathematics
 - 🌱 I’m currently learning ML/DL and Computer Vision
 - 👯 I’m looking to collaborate on interested in AI
