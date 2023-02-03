@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20JK&fontSize=90)
 
 
-### Hi there, I'm Joo Kyoung Lee 👋
 
 
 
