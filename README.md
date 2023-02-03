@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 
 
 
-[link keyword][id]
 
-[id]: URL "Optional Title here"
 
-// code
-Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
